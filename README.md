@@ -54,3 +54,4 @@ postgres://liaxabdytezdje:97304b2e4c20015c0171cadf604804e68fafd4f9bc7fc9684a784b
 
 - `heroku config:set NODE_ENV=production`
 
+- `heroku config:set MY_HEROKU_URL=$(heroku info -s | grep web_url | cut -d= -f2)`

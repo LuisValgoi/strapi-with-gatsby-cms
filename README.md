@@ -4,6 +4,16 @@
 
 - This project was created following [this link here](https://www.gatsbyjs.com/blog/2018-1-18-strapi-and-gatsby/#1-introduction).
 
+## 🔗 Link 
+
+The CMS is available under the below link
+
+https://strapi-with-gatsby-cms.herokuapp.com/admin/
+
+- luisvalgoi@gmail.com | Initial1!
+
+- bruna.ferri@outlook.com | Initial1!
+
 ## ℹ️  Notes
 
 - It runs the `http://localhost:1337`
